@@ -1,1 +1,3 @@
-# julia-usp
+Repositório para salvar atividadezinhas
+
+Molo Lindo
